@@ -36,15 +36,15 @@ def base_url(request):
     return request.config.getoption("--url")
 
 
-def pytest_addoption(parser):
-    parser.addoption(
-        '--browser',
-        action='store',
-        default='chrome',
-        help="Choose browser: chrome or firefox")
-    parser.addoption(
-        '--url',
-        action='store',
-        default='http://192.168.1.1/',
-        help='This is base url'
-    )
+# def pytest_addoption(parser):
+#     parser.addoption(
+#         '--browser',
+#         action='store',
+#         default='chrome',
+#         help="Choose browser: chrome or firefox")
+#     parser.addoption(
+#         '--url',
+#         action='store',
+#         default='http://192.168.1.1/',
+#         help='This is base url'
+#     )
