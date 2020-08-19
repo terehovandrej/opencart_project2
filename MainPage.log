@@ -13,3 +13,8 @@
 2020-06-21 16:16:07,873	MainPage	ERROR	Caught TimeoutException:
 <class 'selenium.common.exceptions.TimeoutException'>
 2020-06-21 16:16:07,873	MainPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:41:57,667	MainPage	INFO	Trying find element
+2020-08-19 20:42:07,891	MainPage	ERROR	Can't find element by locator ('id', 'top')
+2020-08-19 20:42:07,891	MainPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:42:07,891	MainPage	ERROR	Saving screenshot to TimeoutException.png

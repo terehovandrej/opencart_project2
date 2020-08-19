@@ -1349,3 +1349,327 @@
 2020-07-02 14:10:45,326	AdminPage	INFO	Trying find element
 2020-08-19 20:05:12,581	AdminPage	INFO	Trying find element
 2020-08-19 20:05:12,760	AdminPage	INFO	Trying find element
+2020-08-19 20:39:27,379	AdminPage	INFO	Trying find element
+2020-08-19 20:39:27,379	AdminPage	INFO	Trying find element
+2020-08-19 20:39:56,001	AdminPage	INFO	Trying find element
+2020-08-19 20:39:56,001	AdminPage	INFO	Trying find element
+2020-08-19 20:39:56,001	AdminPage	INFO	Trying find element
+2020-08-19 20:40:01,067	AdminPage	INFO	Trying find element
+2020-08-19 20:40:01,067	AdminPage	INFO	Trying find element
+2020-08-19 20:40:01,067	AdminPage	INFO	Trying find element
+2020-08-19 20:40:11,079	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:40:11,079	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:40:11,079	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:40:11,079	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:40:11,079	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:40:11,079	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:40:11,080	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:40:11,080	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:40:11,080	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:40:28,996	AdminPage	INFO	Trying find element
+2020-08-19 20:40:28,996	AdminPage	INFO	Trying find element
+2020-08-19 20:40:28,996	AdminPage	INFO	Trying find element
+2020-08-19 20:40:28,996	AdminPage	INFO	Trying find element
+2020-08-19 20:40:29,103	AdminPage	INFO	Trying find element
+2020-08-19 20:40:29,103	AdminPage	INFO	Trying find element
+2020-08-19 20:40:29,103	AdminPage	INFO	Trying find element
+2020-08-19 20:40:29,103	AdminPage	INFO	Trying find element
+2020-08-19 20:40:45,773	AdminPage	INFO	Trying find element
+2020-08-19 20:40:45,773	AdminPage	INFO	Trying find element
+2020-08-19 20:40:45,773	AdminPage	INFO	Trying find element
+2020-08-19 20:40:45,773	AdminPage	INFO	Trying find element
+2020-08-19 20:40:45,773	AdminPage	INFO	Trying find element
+2020-08-19 20:40:45,996	AdminPage	INFO	Trying find element
+2020-08-19 20:40:45,996	AdminPage	INFO	Trying find element
+2020-08-19 20:40:45,996	AdminPage	INFO	Trying find element
+2020-08-19 20:40:45,996	AdminPage	INFO	Trying find element
+2020-08-19 20:40:45,996	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,242	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,242	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,242	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,242	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,242	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,242	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,459	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,459	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,459	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,459	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,459	AdminPage	INFO	Trying find element
+2020-08-19 20:41:00,459	AdminPage	INFO	Trying find element
+2020-08-19 20:41:19,933	AdminPage	INFO	Trying find element
+2020-08-19 20:41:19,933	AdminPage	INFO	Trying find element
+2020-08-19 20:41:19,933	AdminPage	INFO	Trying find element
+2020-08-19 20:41:19,933	AdminPage	INFO	Trying find element
+2020-08-19 20:41:19,933	AdminPage	INFO	Trying find element
+2020-08-19 20:41:19,933	AdminPage	INFO	Trying find element
+2020-08-19 20:41:19,933	AdminPage	INFO	Trying find element
+2020-08-19 20:41:24,995	AdminPage	INFO	Trying find element
+2020-08-19 20:41:24,995	AdminPage	INFO	Trying find element
+2020-08-19 20:41:24,995	AdminPage	INFO	Trying find element
+2020-08-19 20:41:24,995	AdminPage	INFO	Trying find element
+2020-08-19 20:41:24,995	AdminPage	INFO	Trying find element
+2020-08-19 20:41:24,995	AdminPage	INFO	Trying find element
+2020-08-19 20:41:24,995	AdminPage	INFO	Trying find element
+2020-08-19 20:41:35,080	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Categories"]')
+2020-08-19 20:41:35,080	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Categories"]')
+2020-08-19 20:41:35,080	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Categories"]')
+2020-08-19 20:41:35,080	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Categories"]')
+2020-08-19 20:41:35,080	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Categories"]')
+2020-08-19 20:41:35,080	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Categories"]')
+2020-08-19 20:41:35,080	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Categories"]')
+2020-08-19 20:41:35,080	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:41:35,080	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:41:35,080	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:41:35,080	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:41:35,080	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:41:35,080	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:41:35,080	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:41:35,081	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:41:35,081	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:41:35,081	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:41:35,081	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:41:35,081	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:41:35,081	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:41:35,081	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:41:46,276	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,276	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,276	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,276	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,276	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,276	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,276	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,276	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,397	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,397	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,397	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,397	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,397	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,397	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,397	AdminPage	INFO	Trying find element
+2020-08-19 20:41:46,397	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,153	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,153	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,153	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,153	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,153	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,153	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,153	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,153	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,153	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,325	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,325	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,325	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,325	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,325	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,325	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,325	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,325	AdminPage	INFO	Trying find element
+2020-08-19 20:42:31,325	AdminPage	INFO	Trying find element
+2020-08-19 20:42:52,035	AdminPage	INFO	Trying find element
+2020-08-19 20:42:52,035	AdminPage	INFO	Trying find element
+2020-08-19 20:42:52,035	AdminPage	INFO	Trying find element
+2020-08-19 20:42:52,035	AdminPage	INFO	Trying find element
+2020-08-19 20:42:52,035	AdminPage	INFO	Trying find element
+2020-08-19 20:42:52,035	AdminPage	INFO	Trying find element
+2020-08-19 20:42:52,035	AdminPage	INFO	Trying find element
+2020-08-19 20:42:52,035	AdminPage	INFO	Trying find element
+2020-08-19 20:42:52,035	AdminPage	INFO	Trying find element
+2020-08-19 20:42:52,035	AdminPage	INFO	Trying find element
+2020-08-19 20:42:57,099	AdminPage	INFO	Trying find element
+2020-08-19 20:42:57,099	AdminPage	INFO	Trying find element
+2020-08-19 20:42:57,099	AdminPage	INFO	Trying find element
+2020-08-19 20:42:57,099	AdminPage	INFO	Trying find element
+2020-08-19 20:42:57,099	AdminPage	INFO	Trying find element
+2020-08-19 20:42:57,099	AdminPage	INFO	Trying find element
+2020-08-19 20:42:57,099	AdminPage	INFO	Trying find element
+2020-08-19 20:42:57,099	AdminPage	INFO	Trying find element
+2020-08-19 20:42:57,099	AdminPage	INFO	Trying find element
+2020-08-19 20:42:57,099	AdminPage	INFO	Trying find element
+2020-08-19 20:43:07,149	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:07,149	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:07,149	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:07,149	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:07,149	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:07,149	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:07,149	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:07,149	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:07,149	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:07,149	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:07,149	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:07,149	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:07,149	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:07,149	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:07,149	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:07,149	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:07,149	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:07,149	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:07,149	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:07,149	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:07,150	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:07,150	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:07,150	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:07,150	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:07,150	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:07,150	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:07,150	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:07,150	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:07,150	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:07,150	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:20,459	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:25,538	AdminPage	INFO	Trying find element
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,040	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:36,041	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:50,495	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:43:55,563	AdminPage	INFO	Trying find element
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,576	AdminPage	ERROR	Can't find element by locator ('xpath', '//a[text()="Products"]')
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,577	AdminPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
+2020-08-19 20:44:05,578	AdminPage	ERROR	Saving screenshot to TimeoutException.png
