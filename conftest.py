@@ -6,38 +6,13 @@ from selenium.webdriver import ChromeOptions
 
 
 @pytest.fixture(scope="function")
-def browser(request):
-    browser_name = request.config.getoption("browser")
-    if browser_name == "chrome":
-        print("\nstart chrome browser for test..")
-        options = ChromeOptions()
-        # options.add_argument("--headless")
-        options.add_argument('--ignore-certificate-errors')
-        options.add_argument("--start-maximized")
-        wd = webdriver.Chrome(options=options)
-    # if browser_name == "chrome":
-    #     # caps = {
-    #     #     "browserName": "chrome",
-    #     #     "version": "83.0",
-    #     #     "enableVNC": True,
-    #     #     "enableVideo": True,
-    #     #     "acceptSslCerts": True,
-    #     #     "acceptInsecureCerts": True
-    #     # }
-    #     # executor_url = "http://localhost:4444/wd/hub"
-    #     # wd = webdriver.Remote(command_executor=executor_url, desired_capabilities=caps)
-    #
-    elif browser_name == "firefox":
-        caps = {
-            "browserName": "firefox",
-            "version": "77.0",
-            "enableVNC": True,
-            "enableVideo": True
-        }
-        executor_url = "http://localhost:4444/wd/hub"
-        wd = webdriver.Remote(command_executor=executor_url, desired_capabilities=caps)
-    else:
-        raise pytest.UsageError("browser should be chrome or firefox")
+def browser():
+    print("\nstart chrome browser for test..")
+    options = ChromeOptions()
+    # options.add_argument("--headless")
+    options.add_argument('--ignore-certificate-errors')
+    options.add_argument("--start-maximized")
+    wd = webdriver.Chrome(options=options)
     yield wd
     wd.quit()
 
