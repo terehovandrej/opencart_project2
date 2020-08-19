@@ -1,0 +1,11 @@
+[32mINFO    [0m LoginPage:basepage.py:27 Trying find element
+[32mINFO    [0m LoginPage:basepage.py:27 Trying find element
+[32mINFO    [0m LoginPage:basepage.py:27 Trying find element
+[32mINFO    [0m LoginPage:basepage.py:27 Trying find element
+[32mINFO    [0m LoginPage:basepage.py:27 Trying find element
+[32mINFO    [0m AdminPage:basepage.py:27 Trying find element
+[32mINFO    [0m AdminPage:basepage.py:27 Trying find element
+[1m[31mERROR   [0m AdminPage:basepage.py:32 Can't find element by locator ('xpath', '//a[text()="Products"]')
+[1m[31mERROR   [0m AdminPage:basepage.py:33 Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+[1m[31mERROR   [0m AdminPage:basepage.py:34 Saving screenshot to TimeoutException.png

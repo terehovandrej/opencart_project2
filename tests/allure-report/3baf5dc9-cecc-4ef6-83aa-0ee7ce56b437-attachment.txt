@@ -1,0 +1,5 @@
+[32mINFO    [0m LoginPage:basepage.py:27 Trying find element
+[31m[1mERROR   [0m LoginPage:basepage.py:32 Can't find element by locator ('id', 'input-username')
+[31m[1mERROR   [0m LoginPage:basepage.py:33 Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+[31m[1mERROR   [0m LoginPage:basepage.py:34 Saving screenshot to TimeoutException.png

@@ -1,0 +1,20 @@
+2020-06-18 18:40:10,726	MainPage	INFO	Trying find element
+2020-06-18 18:40:21,142	MainPage	ERROR	Can't find element by locator ('id', 'top')
+2020-06-18 18:40:21,142	MainPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-06-18 18:40:21,142	MainPage	ERROR	Saving screenshot to TimeoutException.png
+2020-06-20 15:39:29,587	MainPage	INFO	Trying find element
+2020-06-20 15:39:40,004	MainPage	ERROR	Can't find element by locator ('id', 'top')
+2020-06-20 15:39:40,004	MainPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-06-20 15:39:40,005	MainPage	ERROR	Saving screenshot to TimeoutException.png
+2020-06-20 21:03:10,439	MainPage	INFO	Trying find element
+2020-06-20 21:03:20,594	MainPage	ERROR	Can't find element by locator ('id', 'top')
+2020-06-20 21:03:20,594	MainPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-06-20 21:03:20,594	MainPage	ERROR	Saving screenshot to TimeoutException.png
+2020-06-20 21:48:07,209	MainPage	INFO	Trying find element
+2020-06-20 21:48:17,697	MainPage	ERROR	Can't find element by locator ('id', 'top')
+2020-06-20 21:48:17,697	MainPage	ERROR	Caught TimeoutException:
+<class 'selenium.common.exceptions.TimeoutException'>
+2020-06-20 21:48:17,697	MainPage	ERROR	Saving screenshot to TimeoutException.png
